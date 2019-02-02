@@ -301,6 +301,7 @@ hr {
 	position:relative;	
 	background: url(../img/bg1.jpg) no-repeat top center;
 	background-size: cover;
+  background-position: 0 -300px;
 }
 
 #intro.intro {
@@ -640,3 +641,10 @@ a.btn:hover {
 	}
 	
 }
+
+.fb img , .ig img {
+  width: 25px;
+  height: 25px;
+  margin: 10px;
+}
+
